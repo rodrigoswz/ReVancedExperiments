@@ -3,7 +3,7 @@
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Aunali321/RevancedExperiments/release.yml)
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
 
-Collection of ReVanced Patches
+Collection of ReVanced Patches 
 
 ## ❓ About
 

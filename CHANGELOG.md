@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/rodrigoswz/ReVancedExperiments/compare/v1.0.0...v1.0.1) (2025-12-10)
+
+
+### Bug Fixes
+
+* trigger release ([d25dcfb](https://github.com/rodrigoswz/ReVancedExperiments/commit/d25dcfb634e85dee11e6d022113314229f4240f6))
+
 # 1.0.0 (2025-12-10)
 
 
